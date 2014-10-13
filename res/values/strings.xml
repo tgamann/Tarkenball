@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TarkenBall</string>
+    <string name="action_settings">Settings</string>
+    <string name="your_top_score">Your Top Score:</string>
+    <string name="play">Play</string>
+    <string name="play_hard">Play Hard</string>
+    <string name="sound">Sound</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="title_activity_sensor">SensorActivity</string>
+    
+</resources>
